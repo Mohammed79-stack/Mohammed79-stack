@@ -1,3 +1,5 @@
+<img alt="prog" src="https://media1.tenor.com/m/fkPxqJwOVhoAAAAC/qforce-stat.gif" />
+
 # 💫 About Me:
 🎓 I’m currently studying CS, It's my hobby.<br>💻 I love building websites with Next.js and React.<br>☕ They say developers are boring, have I change your mind ?
 
