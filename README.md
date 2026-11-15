@@ -1,6 +1,6 @@
 <img alt="prog" width="100%" src="https://media1.tenor.com/m/fkPxqJwOVhoAAAAC/qforce-stat.gif" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohammed79-stack&color=red&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed79-stack&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 <div align="center">
   
@@ -22,6 +22,15 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/7m9)
  
 ---
+
+# 🛡️ My Team
+
+<div>
+<a href="https://pit-ecru.vercel.app/">
+  <img src="./favicon.png" alt="Team name" width="100">
+</a>
+</div>
+
  
 # 🚀 Featured Projects
  
