@@ -106,7 +106,7 @@ I'm the **founder and lead front-end developer**, building modern websites with 
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/M7m99)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohammed79-stack&color=ff69b4&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohammed79-stack&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
