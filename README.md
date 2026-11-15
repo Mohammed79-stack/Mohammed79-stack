@@ -13,7 +13,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Mohammed79-stack&icon=2&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 If you like my work, you can buy me a coffee ☕
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/M7m99) 
 
   
