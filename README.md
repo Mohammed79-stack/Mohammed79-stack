@@ -6,7 +6,7 @@
 
 ### Front-End Developer · Next.js & React · CS Student
 
-🟢 **Open to internships, junior front-end roles, and freelance projects**
+🟢 **Open to internships, junior/intermediate front-end roles, and freelance projects**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17mqqq@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768953386081976331)
