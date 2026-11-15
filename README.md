@@ -8,8 +8,7 @@
 
 🟢 **Open to internships, junior front-end roles, and freelance projects**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![CV](https://img.shields.io/badge/Download%20CV-ff69b4?style=for-the-badge&logo=readme&logoColor=white)](./CV.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17mqqq@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768953386081976331)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/7m9etoo)
 
