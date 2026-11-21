@@ -35,7 +35,7 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🌸 **Fragrant Flower** | A Waguri fan website with animated sections, an album slider, and a character timeline. Built with Next.js, React, and TypeScript. | [Live](https://ff-weld-ten.vercel.app) · [Code](https://github.com/Mohammed79-stack/fragnentflower) |
-| 🍮 **B.Laban Concept** | An unofficial UI recreation of a dessert brand website, built for portfolio practice. Not affiliated with the brand. | [Live](https://blaban-two.vercel.app/) · [Code](https://github.com/Mohammed79-stack/YOUR_BLABAN_REPO) |
+| 🍮 **B.Laban Concept** | An unofficial UI recreation of a dessert brand website, built for portfolio practice. Not affiliated with the brand. | [Live](https://blaban-two.vercel.app/) · [Code](https://github.com/Mohammed79-stack/YOUR_BLABAN_REPO](https://github.com/Mohammed79-stack/B.Laban)
 
 ---
 
